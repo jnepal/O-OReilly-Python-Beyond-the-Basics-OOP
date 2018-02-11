@@ -1,0 +1,8 @@
+INFO:root:This should be logged
+WARNING:root:And, this too
+(asctime)s INFO: This should be logged
+(asctime)s WARNING: And, this too
+2018-02-11 23:13:01,456 INFO: This should be logged
+2018-02-11 23:13:01,474 WARNING: And, this too
+02/11/2018 11:13:49 PM INFO: This should be logged
+02/11/2018 11:13:49 PM WARNING: And, this too
